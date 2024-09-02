@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Reverse Shell Tool
+Comment=Scan network, upload files, and execute commands
+Exec=python3 /usr/local/bin/reverse-shell-network-scanner
+Icon=utilities-terminal
+Terminal=true
+Type=Application
