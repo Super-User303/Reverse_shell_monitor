@@ -39,7 +39,7 @@ This VBScript runs the batch file in the background without showing the console 
 
 Clone the repository:
 
-    git clone https://github.com/your-username/Reverse-Shell-Monitor.git
+    git clone https://github.com/Giddy-K/Reverse-Shell-Monitor.git
     cd Bare_metal
 
 Modify the reverse-shell.ps1 script with your server's IP address and port:
