@@ -1,23 +1,32 @@
 # Reverse Shell Tool
 
 ## Description
+
 This tool allows you to scan a network for devices, upload files to a selected Windows machine, and execute commands remotely.
 
 ## Installation
+
 1. Clone the repository:
+
     ```bash
     git clone https://github.com/yourusername/reverse-shell-tool.git
     cd reverse-shell-tool
     ```
+
 2. Run the installation script:
+
     ```bash
     sudo ./install.sh
     ```
 
 ## Usage
 
+`TODO`
+
 ### Network Scanning
+
 To scan the network for devices:
+
 ```bash
 python3 /usr/local/bin/reverse-shell-network-scanner
 
