@@ -1,4 +1,4 @@
-# ![Reverse Shell Monitor](assets/reverseshell.jpg)
+# ![Reverse Shell Monitor](assets/reverseshell.png)
 
 # Reverse-Shell-Monitor
 
